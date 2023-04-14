@@ -1,0 +1,8 @@
+.personapic {
+    margin: 10px;
+}
+
+.personapicselected {
+    margin: 10px;
+    border: 2px solid blue;
+}
